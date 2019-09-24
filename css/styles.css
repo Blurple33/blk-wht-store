@@ -7,10 +7,16 @@
 
 
 /*==== Nav ====*/
+.navbar-inverse{
+    margin-bottom: 0;
+    background-color: rgba 0,0,0,.2;
+    border: none;
 
+}
 /*==== Carousel ====*/
 .item{
-    height: 500px;
+    padding-top: 40px;
+    height: 42em;
     background-size: cover;
     background-position: center;
 }
